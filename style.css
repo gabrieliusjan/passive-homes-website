@@ -1,0 +1,1025 @@
+body
+{
+    background-color: gray;
+    color: #FEFFFF;
+}
+
+a
+{
+    color: #FEFFFF;
+}
+
+hr
+{
+    margin-top: 0rem;
+    margin-bottom: 0rem;
+    background-color: #FEFFFF;
+    height: 2px;
+}
+
+.hrcol
+{
+    padding: 0 10px;
+}
+
+header
+{
+    background-color: #17252A;
+}
+
+.acmenamecol
+{
+    font-size: 36px;
+    font-weight: bold;
+    margin: 15px 0;
+    padding-left: 0;
+}
+
+.logocol
+{
+    margin: 10px 0;
+    text-align: center;
+}
+
+.logocol img
+{
+    margin-left: 13px;
+}
+
+.accountcol
+{
+    margin: 15px 0;
+    text-align: center;
+}
+
+.navcol
+{
+    padding: 0;
+}
+
+.navcol ul
+{
+    margin: 0;
+    padding: 0;
+}
+
+.navcol li
+{
+    padding: 15px 69px;
+}
+
+.navcol a
+{
+    text-decoration: none;
+}
+
+.navcol a:hover
+{
+    color: #3AAFA9;
+}
+
+ul li
+{
+    display: inline-block;
+}
+
+main
+{
+    background-color: #3AAFA9;
+}
+
+h2
+{
+    text-align: center;
+    font-size: 32px;
+    padding: 10px 0;
+    margin: 50px 0 90px 0;
+    text-shadow: 0px 4px 4px rgba(0,0,0,0.25);
+}
+
+h2 i
+{
+    color: #17252A;
+}
+
+.timberbuildcol
+{
+    text-align: left;
+    margin-bottom: 90px;
+}
+
+.slabbuildcol
+{
+    text-align: right;
+    margin-bottom: 90px;
+}
+
+.timberbuildcol img
+{
+    margin-left: 45px;
+}
+
+.slabbuildcol img
+{
+    margin-right: 45px;
+}
+
+.testimonialscol
+{
+    font-size: 24px;
+    text-align: center;
+    padding: 10px 0;
+    margin: 20px 0 40px 0;
+}
+
+.johniecol
+{
+    margin-bottom: 50px;
+}
+
+.johniecol img
+{
+    text-align: left;
+    margin-left: 45px;
+    box-shadow: 10px 10px 4px rgba(0,0,0,0.25);
+}
+
+.johnietextcol
+{
+    font-size: 24px;
+    margin-left: 65px;
+    margin-top: 40px;
+    text-shadow: 0px 4px 4px rgba(0,0,0,0.25);
+    text-align: left;
+}
+
+.johnietextcol b
+{
+    font-weight: 500;
+}
+
+.bobcol img
+{
+    box-shadow: -10px 10px 4px rgba(0,0,0,0.25);
+    text-align: right;
+}
+
+.bobtextcol
+{
+    font-size: 24px;
+    margin-left: 130px;
+    margin-top: 40px;
+    text-shadow: 0px 4px 4px rgba(0,0,0,0.25);
+    text-align: right;
+}
+
+.bobtextcol b
+{
+    font-weight: 500;
+}
+
+.bobcol
+{
+    margin-bottom: 110px;
+}
+
+figcaption
+{
+    margin-top: 10px;
+    text-align: center;
+}
+
+.oppcol
+{
+    font-size: 24px;
+    text-align: center;
+    padding: 10px 0;
+    margin: 20px 0 40px 0;
+}
+
+.projectscol
+{
+    margin-bottom: 90px;
+}
+
+.projectscol figcaption
+{
+    margin-left: 20px;
+}
+
+.projectscol img
+{
+    text-align: left;
+    margin-left: 45px;
+    box-shadow: 10px 10px 4px rgba(0,0,0,0.25);
+}
+
+.projectstextcol
+{
+    font-size: 24px;
+    text-shadow: 0px 4px 4px rgba(0,0,0,0.25);
+    text-align: left;
+    margin-bottom: 70px;
+    margin-top: 40px;
+}
+
+.projectstextcol i
+{
+    color: #17252A;
+}
+
+footer
+{
+    font-size: 20px;
+    background-color: #17252A;
+}
+
+footer li
+{
+    padding: 10px;
+}
+
+footer ul
+{
+    padding: 35px 0;
+    margin: 0;
+    display: inline-flex;
+    text-align: right;
+}
+
+.smcol
+{
+    text-align: right;
+    padding: 0;
+}
+
+.smcol img
+{
+    filter: opacity(100%);
+    cursor: pointer;
+}
+
+.smcol img:hover
+{
+    filter: opacity(50%);
+}
+
+.contactscol p
+{
+    margin: 20px 0px;
+}
+
+.agreementscol
+{
+    text-align: center;
+}
+
+.agreementscol ul
+{
+    padding: 10px 0;
+}
+
+.agreementscol li
+{
+    padding: 10px 25px;
+}
+
+.agreementscol a
+{
+    font-size: 16px;
+    color: #556064;
+    text-decoration: underline;
+}
+
+.agreementscol a:hover
+{
+    color: #FEFFFF;
+}
+
+.bfcol
+{
+    font-size: 24px;
+    text-shadow: 0px 4px 4px rgba(0,0,0,0.25);
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.bfcol i
+{
+    color: #17252A;
+}
+
+.bfimgcol
+{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 60px;
+}
+
+.phfcol
+{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 60px;
+    font-size: 24px;
+}
+
+.phwtextcol
+{
+    text-align: left;
+    margin-top: 30px;
+    margin-bottom: 60px;
+    font-size: 24px;
+    text-shadow: 0px 4px 4px rgba(0,0,0,0.25);
+}
+
+.phwtextcol i
+{
+    color: #17252A;
+}
+
+.prsecondcol
+{
+    text-align: center;
+}
+
+.prsecondcol img
+{
+    text-align: center;
+    width: 100%;
+    margin-left: 45px;
+    margin-bottom: 90px;
+}
+
+.workedcol
+{
+    text-align: left;
+    margin-left: 45px;
+    font-size: 24px;
+    margin-bottom: 45px;
+}
+
+.formcol
+{
+    margin-top: 10px;
+    text-align: center;
+}
+
+.formtopcol
+{
+    margin-top: 100px;
+    text-align: center;
+}
+
+.buttoncol
+{
+    margin-bottom: 100px;
+    text-align: center;
+}
+
+@media screen and (max-width:1199px)
+{
+    .workedcol
+    {
+        margin-left: 0px;
+    }
+
+    .prsecondcol img
+    {
+        margin-left: 0;
+
+    }
+
+    .navcol li
+    {
+        padding: 15px 51px;
+    }
+    
+    .johniecol img
+    {
+        margin-left: 0;
+    }
+
+    .johnietextcol
+    {
+        margin-left: 50px;
+    }
+
+    .projectscol img
+    {
+        margin-left: 0;
+    }
+
+    .projectstextcol p
+    {
+        margin-left: 15px;
+    }
+
+    .smcol
+    {
+        padding: 0;
+    }
+
+    .contactscol
+    {
+        padding: 0;
+        padding-left: 10px;
+    }
+}
+
+@media screen and (max-width:991px)
+{
+    .workedcol
+    {
+        font-size: 18px;
+    }
+
+    .phfcol img
+    {
+        width: 60%;
+    }
+
+    .phfcol
+    {
+        font-size: 18px;
+    }
+
+    .bfcol
+    {
+        font-size: 18px;
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+
+    .bfimgcol img
+    {
+        width: 99%;
+    }
+
+    .navcol li
+    {
+        padding: 15px 27px;
+    }
+    
+    .johniecol img
+    {
+        margin-left: 0;
+    }
+
+    .johnietextcol
+    {
+        margin-left: 80px;
+        font-size: 18px;
+    }
+
+    .projectscol img
+    {
+        margin-left: 0;
+        width: 99%;
+    }
+
+    .projectstextcol p
+    {
+        margin-left: 15px;
+        font-size: 18px;
+    }
+
+    .projectstextcol
+    {
+        margin-top: 15px;
+    }
+
+    .projectscol figcaption
+    {
+        margin-left: 0;
+    }
+
+    .smcol
+    {
+        padding: 0;
+    }
+
+    .smcol img
+    {
+        width: 85%;
+    }
+
+    .contactscol
+    {
+        padding: 0;
+        padding-left: 10px;
+    }
+
+    .slabbuildcol img 
+    {
+        margin-right: 0;
+        width: 70%;
+    }
+
+    .timberbuildcol img 
+    {
+        margin-left: 0;
+        width: 99%;
+    }
+
+    h2
+    {
+        font-size: 24px;
+    }
+    
+    .logocol img
+    {
+        width: 60%;
+    }
+
+    .acmenamecol
+    {
+        font-size: 28px;
+    }
+
+    .accountcol img
+    {
+        width: 45%;
+    }
+
+    .bobtextcol
+    {
+        font-size: 18px;
+        margin-left: 40px;
+    }
+
+    .bobcol img
+    {
+        width: 189%;
+    }
+
+    .johniecol img
+    {
+        width: 189%;
+    }
+
+    .contactscol
+    {
+        font-size: 18px;
+    }
+
+    .agreementscol
+    {
+        font-size: 14px;
+    }
+
+    .agreementscol a:hover
+    {
+        color: #556064;
+    }
+
+    .smcol img:hover
+    {
+        filter: opacity(100%);
+    }
+
+    .navcol a:hover
+    {
+        color: #FEFFFF;
+    }
+}
+
+@media screen and (max-width:767px)
+{
+    .phfcol img
+    {
+        width: 60%;
+    }
+
+    .phfcol
+    {
+        font-size: 13px;
+    }
+
+    .phwcol img
+    {
+        width: 80%;
+    }
+
+    .bfcol
+    {
+        font-size: 13px;
+    }
+
+    .navcol li
+    {
+        padding: 15px 9px;
+    }
+    
+    .testimonialscol
+    {
+        font-size: 20px;
+        margin: 5px 0 10px 0;
+    }
+
+    .johniecol img
+    {
+        margin-left: 0;
+    }
+
+    .johnietextcol
+    {
+        margin-left: 40px;
+        font-size: 13px;
+        margin-top: 15px;
+    }
+
+    .oppcol
+    {
+        font-size: 20px;
+        margin: 5px 0 10px 0;
+    }
+
+    .projectscol img
+    {
+        margin-left: 0;
+        width: 99%;
+    }
+
+    .projectstextcol p
+    {
+        margin-left: 5px;
+        font-size: 13px;
+    }
+
+    .projectstextcol
+    {
+        margin: 0 0 40px 0;
+    }
+
+    .projectscol figcaption
+    {
+        margin-left: 0;
+        font-size: 13px;
+    }
+
+    .projectscol
+    {
+        margin: 0 0 40px 0;
+    }
+
+    .smcol
+    {
+        padding: 0;
+    }
+
+    .smcol img
+    {
+        width: 85%;
+    }
+
+    .contactscol
+    {
+        padding: 0;
+        padding-left: 10px;
+    }
+
+    .slabbuildcol img 
+    {
+        margin-right: 0;
+        width: 70%;
+    }
+
+    .slabbuildcol
+    {
+        margin-bottom: 70px;
+    }
+
+    .timberbuildcol
+    {
+        margin-bottom: 70px;
+    }
+
+    .timberbuildcol img 
+    {
+        margin-left: 0;
+        width: 99%;
+    }
+
+    h2
+    {
+        font-size: 20px;
+        margin: 30px 0 50px 0;
+    }
+    
+    .logocol img
+    {
+        width: 45%;
+    }
+
+    .logocol
+    {
+        padding: 0;
+        margin-top: 12px;
+    }
+
+    .acmenamecol
+    {
+        font-size: 24px;
+    }
+
+    .accountcol img
+    {
+        width: 45%;
+        text-align: left;
+        margin-right: 50px;
+    }
+
+    .bobtextcol
+    {
+        margin-left: 40px;
+        font-size: 13px;
+        margin-top: 25px;
+    }
+
+    .bobcol
+    {
+        margin-bottom: 40px;
+    }
+
+    .bobcol img
+    {
+        width: 189%;
+    }
+
+    .johniecol img
+    {
+        width: 189%;
+    }
+
+    .contactscol
+    {
+        font-size: 16px;
+    }
+
+    .agreementscol
+    {
+        font-size: 10px;
+    }
+
+    .agreementscol a:hover
+    {
+        color: #556064;
+    }
+
+    .smcol img:hover
+    {
+        filter: opacity(100%);
+    }
+
+    .navcol a:hover
+    {
+        color: #FEFFFF;
+    }
+}
+
+@media screen and (max-width:575px)
+{
+    .workedcol
+    {
+        font-size: 13px;
+        text-align: center;
+    }
+    
+    .prsecondcol img
+    {
+        width: 30%;
+    }
+
+    .phwcol img
+    {
+        width: 50%;
+    }
+
+    .phwcol figcaption
+    {
+        font-size: 13px;
+    }
+
+    .bfcol
+    {
+        font-size: 13px;
+    }
+
+    .bfimgcol img
+    {
+        width: 50%;
+    }
+
+    .navcol li
+    {
+        padding: 15px 12px;
+    }
+    
+    .testimonialscol
+    {
+        font-size: 20px;
+        margin: 5px 0 10px 0;
+    }
+
+    .johniecol img
+    {
+        margin-left: 0;
+    }
+
+    .johnietextcol
+    {
+        font-size: 13px;
+        margin-top: 15px;
+        text-align: center;
+        margin-left: 0;
+    }
+
+    .oppcol
+    {
+        font-size: 13px;
+        margin: 5px 0 10px 0;
+    }
+
+    .projectscol img
+    {
+        margin-left: 0;
+        width: 30%;
+    }
+
+    .projectstextcol p
+    {
+        margin-left: 5px;
+        font-size: 13px;
+    }
+
+    .projectstextcol
+    {
+        text-align: center;
+        margin: 0 0 20px 0;
+    }
+
+    .projectscol figcaption
+    {
+        margin-left: 0;
+        font-size: 13px;
+    }
+
+    .projectscol
+    {
+        text-align: center;
+        margin: 0 0 20px 0;
+    }
+
+    .smcol
+    {
+        text-align: center;
+        padding: 0;
+    }
+
+    .contactscol
+    {
+        text-align: center;
+        padding: 0;
+        padding-left: 10px;
+    }
+
+    .slabbuildcol img 
+    {
+        margin-right: 0;
+        width: 50%;
+        text-align: center;
+    }
+
+    .slabbuildcol
+    {
+        margin-bottom: 50px;
+        text-align: center;
+    }
+
+    .timberbuildcol
+    {
+        margin-bottom: 50px;
+        text-align: center;
+    }
+
+    .timberbuildcol img 
+    {
+        margin-left: 0;
+        width: 50%;
+        text-align: center;
+    }
+
+    h2
+    {
+        font-size: 18px;
+        margin: 15px 0 25px 0;
+    }
+    
+    .logocol img
+    {
+        width: 25%;
+        margin-left: 0;
+    }
+
+    .logocol
+    {
+        width: 25%;
+        padding: 0;
+        margin-top: 12px;
+    }
+
+    .acmenamecol
+    {
+        width: 49%;
+        font-size: 20px;
+        text-align: center;
+    }
+
+    .accountcol img
+    {
+        width: 25%;
+        text-align: left;
+        margin-right: 0;
+    }
+
+    .accountcol
+    {
+        width: 25%;
+    }
+
+    .bobtextcol
+    {
+        text-align: center;
+        margin-left: 0px;
+        font-size: 13px;
+        margin-top: 25px;
+    }
+
+    .bobcol
+    {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .bobcol img
+    {
+        text-align: center;
+        width: 15%;
+    }
+
+    .johniecol img
+    {
+        text-align: center;
+        width: 15%;
+    }
+
+    .johniecol
+    {
+        text-align: center;
+        margin-bottom: 10px;
+    }
+
+    .contactscol
+    {
+        padding: 0;
+        margin: 0;
+        font-size: 13px;
+    }
+
+    .agreementscol a
+    {
+        font-size: 13px;
+    }
+
+    .agreementscol a:hover
+    {
+        color: #556064;
+    }
+
+    .smcol
+    {
+        margin: 0;
+        padding: 0;
+    }
+
+    .smcol ul
+    {
+        padding: 0;
+    }
+
+    .smcol img
+    {
+        width: 80%;
+    }
+
+    .smcol img:hover
+    {
+        filter: opacity(100%);
+    }
+
+    .navcol a:hover
+    {
+        color: #FEFFFF;
+    }
+}
